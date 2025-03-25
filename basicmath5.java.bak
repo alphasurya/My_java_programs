@@ -1,0 +1,14 @@
+class basicmath5 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+		
+		int a=b=c=100;
+		a=c=200;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		
+	}
+}
